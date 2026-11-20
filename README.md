@@ -4,7 +4,7 @@ PAYDAY 2 için **Pirate Perfection Reborn (PPR)** trainer'ının Türkçe / İng
 An English / Turkish edition of the **Pirate Perfection Reborn (PPR)** trainer for PAYDAY 2, fixed for the current game and extended with new features.
 
 **[Türkçe](#türkçe)** · **[English](#english)** · [Değişiklikler / Changelog](CHANGELOG.md)
-
+TESTED 2026 20 NOVEMBER WORKS ONLINE AND OFFLINE LOBBYS 
 ---
 
 ## Türkçe

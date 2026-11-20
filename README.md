@@ -1,4 +1,4 @@
-# Pirate Perfection Reborn Trainer – Improved Edition
+# Pirate Perfection Reborn Trainer – Improved Edition (2026 OVERALL İMPROVED VERSİON)
 
 PAYDAY 2 için **Pirate Perfection Reborn (PPR)** trainer'ının Türkçe / İngilizce, oyunun güncel sürümüne göre düzeltilmiş ve geliştirilmiş sürümü.
 An English / Turkish edition of the **Pirate Perfection Reborn (PPR)** trainer for PAYDAY 2, fixed for the current game and extended with new features.
